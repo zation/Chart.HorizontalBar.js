@@ -1,0 +1,19 @@
+{
+  "name": "chart-horizontal-bar",
+  "version": "1.0.3",
+  "description": "Horizontal Bar Chart plugin for Chart.js [chartjs.org](http://www.chartjs.org)",
+  "main": "Chart.HorizontalBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zation/Chart.HorizontalBar.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zation/Chart.HorizontalBar.js/issues"
+  },
+  "homepage": "https://github.com/zation/Chart.HorizontalBar.js#readme"
+}
